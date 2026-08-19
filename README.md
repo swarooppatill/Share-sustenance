@@ -30,7 +30,7 @@
 ```bibtex
 @inproceedings{sharma2026sharesustenance,
   title={Share sustenance: Bridging food surplus and insecurity for a sustainable future},
-  author={Sharma, Ragini and Marathe, Sahil and More, Tejaswi and Patil, Swaroop and Pachupate, Prathamesh},
+  author={Sharma Ragini, Marathe Sahil and More Tejaswi, Patil Swaroop and Pachupate Prathamesh},
   booktitle={Integrated Technologies in Electrical, Electronics and Biotechnology Engineering},
   year={2026}
 }
